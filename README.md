@@ -9,6 +9,7 @@ Refer Tailwind official website documentation for install tailwind to Angular Fr
 for install to tailwind to other frameworks [Tailwind installation for others](https://tailwindcss.com/docs/installation/framework-guides)
 
 ## Simple UI page design with Tailwind Screenshot
+Live URL [Click Here for Demo](https://raheemmohamed.github.io/Angular-with-Tailwind-CSS/)
 
 ![alt text](https://i.ibb.co/cb5BYxj/tailwind-css-simple-design.png)
 
